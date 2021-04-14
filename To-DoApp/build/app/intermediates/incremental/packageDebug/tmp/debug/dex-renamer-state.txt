@@ -1,0 +1,4 @@
+#Sun Sep 20 16:58:41 EET 2020
+base.0=C\:\\dev\\projects\\todolist-master\\todolist\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
